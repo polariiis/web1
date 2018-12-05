@@ -1,0 +1,48 @@
+body{
+  background-color: black;
+  color:white;
+  margin:0px;
+  background-image: url("bg.jpg");
+  background-size: 100%;
+}
+a{
+  text-decoration: none;
+}
+h1 {
+   font-size: 50px;
+   color: White;
+   text-align: center;
+   text-decoration: none;
+   font-family:Baskerville Old Face;
+   font-weight: lighter;
+   border-bottom: 1px solid gray;
+   margin :0px;
+   padding:20px;
+}
+
+#index{
+  text-align: center;
+  margin : 10px;
+}
+
+#index a{
+  padding-left : 20px;
+  padding-right :20px;
+  text-decoration: none;
+  color:white;
+  font-family:Baskerville Old Face;
+
+}
+#main{
+  text-align: center;
+
+}
+#main h2{
+  text-align: left;
+}
+#main p{
+  margin:10px;
+  text-align: left;
+  font-family:Baskerville Old Face;
+  font-weight:lighter;
+}
